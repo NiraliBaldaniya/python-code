@@ -34,6 +34,7 @@ def char_count(text):
 text = input("enter text: ")
         
 while True:
+   
     print("--------------------------------------")
     print("1. toggle case ")
     print("2. title case ")
